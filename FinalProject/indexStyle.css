@@ -12,6 +12,8 @@ body{
     margin:10em;
     background-image: url(https://www.ccber.ucsb.edu/sites/default/files/Gossypium_JT.jpg);
     background-size:100%;
+    color: white;
+    display: block;
 }
 
 @media all and(orientation:landscape){
