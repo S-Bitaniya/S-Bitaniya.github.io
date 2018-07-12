@@ -6,3 +6,9 @@ iframe {
 
 @media all and(orientation:landscape){
 }
+body { 
+  background-color:black
+}
+p {
+  color:white
+}
