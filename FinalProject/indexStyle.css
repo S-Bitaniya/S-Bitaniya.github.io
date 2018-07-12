@@ -15,11 +15,10 @@ body{
     float: right; 
     position: fixed;
 }
-
 @media all and(orientation:landscape){
 }
 #p1{
-    font-size: 30px;
+    font-size: 10px;
 }
 
     
