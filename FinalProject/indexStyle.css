@@ -1,9 +1,11 @@
 
 h2{
 font-family: 'Old Standard TT', serif;
+color:white;
 }
 body{
     width:50%;
+    color:white;
     padding:4em;
     border:20px; 
     border-style: solid;
