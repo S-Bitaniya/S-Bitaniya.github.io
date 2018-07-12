@@ -1,15 +1,15 @@
 
 h2{
 font-family: 'Old Standard TT', serif;
-color:white;
+color:black;
 }
 body{
     width:50%;
-    color:white;
+    color:black;
     padding:4em;
     border:20px; 
     border-style: solid;
-    border-color:palegoldenrod;
+    border-color:white;
     margin:10em;
     background-image: url(https://www.ccber.ucsb.edu/sites/default/files/Gossypium_JT.jpg);
     background-size:100%;
