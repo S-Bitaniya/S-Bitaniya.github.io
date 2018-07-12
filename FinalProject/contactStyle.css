@@ -6,4 +6,7 @@ iframe {
 
 @media all and(orientation:landscape){
 }
-
+body { 
+  background-color:#dcdfe5
+}
+               
