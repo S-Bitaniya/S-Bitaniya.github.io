@@ -1,5 +1,5 @@
-/*@media all and(orientation:landscape){
-}/*
+@media all and(orientation:landscape){
+}
 #menu{
     list-style-type: none;
     margin:40;
