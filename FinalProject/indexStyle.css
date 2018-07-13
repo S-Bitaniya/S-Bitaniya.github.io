@@ -1,22 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
 body{
     width:100%; 
     background-image: url(https://images.unsplash.com/photo-1521453510357-5c7a77db7074?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=490f49b26c354f4acd914f1a30d436ea&auto=format&fit=crop&w=975&q=80);
     background:100%;
 }
-/*
+
 nav{
     background-color: black;
+    text-align: center;
+    list-style-type: none;
+    overflow:hidden;
+    width: 100%;
 }
-
-@media all and(orientation:landscape){
+a{
+    float: left;
+    color:white;
+    text-decoration: none;
+    display: relative;
+    padding: 16px;
+    width: 25%;
+    text-align: center;
+    
+}
+a:hover{
+    color:aquamarine;
 }
 
 h2{
-font-family: 'Amatic SC', cursive;
-font-size:25px;
-text-align:center;
+    font-family: 'Amatic SC', cursive;
+    font-size:25px;
+    text-align:center;
 }
-#p1{
-    font-size: 10px;
+.hometxt{
+    font-size:12px;
 }
-*/
