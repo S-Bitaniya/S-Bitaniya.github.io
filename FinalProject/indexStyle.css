@@ -1,13 +1,11 @@
 @media all and(orientation:landscape){
 }
 #nav{
-    margin-right:auto;
-    margin-left:auto;
     list-style-type: none;
     margin:40;
     padding:0;
     overflow:hidden;
-    background-color: white;
+    background-color: black;
     padding-left: 30%;
 }
 
@@ -18,11 +16,12 @@ li{
 li a{
     float:left;
     display:block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 14px;
     text-decoration: none;
 }
+
 h2{
 font-family: 'Amatic SC', cursive;
 font-size:25px;
