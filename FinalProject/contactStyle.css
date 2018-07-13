@@ -22,6 +22,9 @@ a{
 a:hover{
     color:aquamarine;
 }
+h1{
+    text-align:center;
+}
 
 iframe {
   width: 50%;
