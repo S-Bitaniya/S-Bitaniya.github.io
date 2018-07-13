@@ -1,6 +1,6 @@
 @media all and(orientation:landscape){
 }
-#meun{
+#menu{
     list-style-type: none;
     margin:40;
     padding:0;
@@ -13,7 +13,7 @@ li{
     float:center;
 }
 
-li a{
+a{
     float:left;
     display:block;
     color: white;
