@@ -1,7 +1,12 @@
 * {
     box-sizing: border-box;
 }
-
+body{
+    width:100%; 
+    background-image: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/pastel-color-background-iphone-8.jpg);
+    background-size:100%;
+    style="max-width:1500px";
+    
 nav{
     background-color: black;
     text-align: center;
