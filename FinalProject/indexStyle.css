@@ -2,27 +2,9 @@ nav{
     background-color: black;
 }
 
-/*@media all and(orientation:landscape){
+@media all and(orientation:landscape){
 }
-#menu{
-    list-style-type: none;
-    margin:40;
-    padding:0;
-    overflow:hidden;
-    background-color: black;
-    padding-left: 30%;
-}
-li{
-    float:center;
-}
-a{
-    float:left;
-    display:block;
-    color: white;
-    text-align: center;
-    padding: 14px;
-    text-decoration: none;
-}
+
 h2{
 font-family: 'Amatic SC', cursive;
 font-size:25px;
@@ -44,4 +26,4 @@ body{
 #p1{
     font-size: 10px;
 }
-*/
+
