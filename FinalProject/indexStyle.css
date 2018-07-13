@@ -5,7 +5,8 @@
 body{
     width:100%; 
     background-image: url(https://images.unsplash.com/photo-1521453510357-5c7a77db7074?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=490f49b26c354f4acd914f1a30d436ea&auto=format&fit=crop&w=975&q=80);
-    background:100%;
+    background-size:100%;
+    style="max-width:1500px";
 }
 
 nav{
@@ -34,6 +35,19 @@ h2{
     font-size:25px;
     text-align:center;
 }
+
+#home{
+    border: 15px;
+    border-style: solid;
+    border-color:floralwhite;
+    width:70%;
+    height:20em;
+    margin-left: auto;
+    margin-right: auto;
+}
 .hometxt{
-    font-size:12px;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    margin: 50px;
 }
