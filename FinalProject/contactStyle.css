@@ -1,5 +1,28 @@
-/*@media all and(orientation:landscape){
-}/*
+* {
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    overflow:hidden;
+    width: 100%;
+}
+a{
+    float: left;
+    color:white;
+    text-decoration: none;
+    display: relative;
+    padding: 16px;
+    width: 25%;
+    text-align: center;
+    
+}
+a:hover{
+    color:aquamarine;
+}
+
 iframe {
   width: 50%;
   margin-left: 25%;
