@@ -1,27 +1,5 @@
 @media all and(orientation:landscape){
 }
-ul{
-    list-style-type: none;
-    margin:40;
-    padding:0;
-    overflow:hidden;
-    background-color: white;
-    padding-left: 30%;
-}
-
-li{
-    float:center;
-}
-
-li a{
-    float:left;
-    display:block;
-    color: black;
-    text-align: center;
-    padding: 14px;
-    text-decoration: none;
-}
-
 iframe {
   width: 50%;
   margin-left: 25%;
