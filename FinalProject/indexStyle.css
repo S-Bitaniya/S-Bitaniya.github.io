@@ -26,12 +26,12 @@ li a{
     padding: 14px;
     text-decoration: none;
 }
-
 h2{
-font-family: 'Limelight', cursive;
+font-family: 'Amatic SC', cursive;
+font-size:200px;
 }
 
-#hometxt{
+body{
     width:50%;
     padding:4em;
     border:20px; 
