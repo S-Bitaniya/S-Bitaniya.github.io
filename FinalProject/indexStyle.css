@@ -37,7 +37,7 @@ body{
     border-color:white;
     margin:10em;
     background-image: url(https://images.unsplash.com/photo-1521453510357-5c7a77db7074?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=490f49b26c354f4acd914f1a30d436ea&auto=format&fit=crop&w=975&q=80);
-    background:100%;
+    background-image:100%;
     float: right; 
     position: fixed;
 }
