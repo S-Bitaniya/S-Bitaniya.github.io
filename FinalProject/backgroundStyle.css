@@ -8,4 +8,6 @@ body{
     background-color:white;
     border-color:white;
     margin:10em;
+    float: right; 
+    position: fixed;
 }
