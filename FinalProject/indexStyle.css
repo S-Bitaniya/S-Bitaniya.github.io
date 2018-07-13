@@ -1,5 +1,9 @@
 @media all and(orientation:landscape){
 }
+#nav{
+    margin-right:auto;
+    margin-left:auto;
+}
 
 ul{
     list-style-type: none;
