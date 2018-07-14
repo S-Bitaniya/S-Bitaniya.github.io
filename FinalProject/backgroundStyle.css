@@ -22,6 +22,15 @@ a:hover{
     color:aquamarine;
 }
 img{
-    float: left;
-    height: 520px;
+    float:right;
+    height: 700px;
+    width: 400px;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+    text-align: center;
+    padding:10px;
 }
