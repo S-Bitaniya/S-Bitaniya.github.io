@@ -21,3 +21,7 @@ a{
 a:hover{
     color:aquamarine;
 }
+img{
+    float: left;
+    height: 520px;
+}
