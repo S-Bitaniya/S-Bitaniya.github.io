@@ -45,7 +45,8 @@ a:hover{
 #information{
     background: rgba(0, 0, 0, 0.12);
     background-clip: content-box;
-    width:50%;
+    width:70%;
+    height:20em;
     border-style: solid;
     border: 10px solid rgba(0, 0, 0, 0.12);
 }
