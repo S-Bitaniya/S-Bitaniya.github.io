@@ -54,7 +54,9 @@ h2{
 
 #home{
     border-style: solid;
+    background: rgba(0, 0, 0, 0.12);
     border: 10px solid rgba(0, 0, 0, 0.12);
+    background-clip: padding-box;
     width:70%;
     height:20em;
     margin-left: auto;
