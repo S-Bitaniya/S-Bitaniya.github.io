@@ -3,10 +3,6 @@
 }
 body {
     width: 100%;
-    padding:4em;
-    border:20px; 
-    border-style: solid;
-    border-color:floralwhite;
     
 }
 nav{
@@ -57,4 +53,11 @@ img{
     max-width: 95%;
     text-align: center;
     padding:10px;
+}
+p{
+    padding:4em;
+    width:50%;
+    border:20px; 
+    border-style: solid;
+    border-color:floralwhite;
 }
