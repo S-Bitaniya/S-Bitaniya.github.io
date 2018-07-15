@@ -3,6 +3,11 @@
 }
 body {
     width: 100%;
+    padding:4em;
+    border:20px; 
+    border-style: solid;
+    border-color:floralwhite;
+    
 }
 nav{
     background-color: black;
