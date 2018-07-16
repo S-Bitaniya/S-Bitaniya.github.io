@@ -45,10 +45,15 @@ a:hover{
 #information{
     background: rgba(0, 0, 0, 0.12);
     background-clip: content-box;
-    width:70%;
+    width:62%;
     height:20em;
     border-style: solid;
     border: 10px solid rgba(0, 0, 0, 0.12);
+    float:left;
 }
 
-
+img{
+    float:right;
+    height: 700px;
+    width: 380px;
+}
