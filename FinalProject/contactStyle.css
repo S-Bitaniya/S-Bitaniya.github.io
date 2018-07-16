@@ -6,8 +6,9 @@ body{
     background-image: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/pastel-color-background-iphone-8.jpg);
     background-size: 100%;
 } 
+
 nav{
-    border-color: black;
+    background-color: black;
     text-align: center;
     list-style-type: none;
     overflow:hidden;
@@ -38,10 +39,19 @@ nav a i {
 #oof {
     padding-top: 5%;
 }
-    
+
 a:hover{
     color:aquamarine;
 }
+
+iframe {
+  width: 50%;
+}
+
+#Words{
+  text-align: center;
+    }
+
 h1{
     text-align:center;
 }
@@ -49,8 +59,7 @@ h1{
 iframe {
   width: 50%;
 }
+
 #Words{
   align-text: center;
     }
-
-               
