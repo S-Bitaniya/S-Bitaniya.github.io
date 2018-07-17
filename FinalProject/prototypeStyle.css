@@ -40,6 +40,7 @@ a:hover{
 }
 #paragraph{
     border-style: solid;
+    background:solid rgba(0, 0, 0, 0.12);
     border: 10px solid rgba(0, 0, 0, 0.12);
     background-clip: content-box;
     width:70%;
