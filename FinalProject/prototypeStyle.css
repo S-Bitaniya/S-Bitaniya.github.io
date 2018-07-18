@@ -39,10 +39,10 @@ a:hover{
     color:aquamarine;
 }
 .vl{
-    border-left:black
+    border-left:6px black;
     height:500px;
     position:absolute;
-    left:50%
+    left:50%;
     margin-left: -3px;
     top:0;
 }
