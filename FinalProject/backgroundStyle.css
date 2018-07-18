@@ -1,3 +1,53 @@
+/*Mobile* iphone X*/
+@media only screen 
+    and(max-width: px)
+    and (min-width: px) 
+    and (orientation: landscape){
+} 
+
+
+/*Mobile* iphone 6/7/8 Plus*/
+@media only screen 
+    and(max-width: px) 
+    and (min-width: px) 
+    and (orientation: landscape){
+} 
+
+
+/*Mobile* iphone 6/7/8*/
+@media only screen 
+    and(max-width: px) 
+    and (min-width: px) 
+    and (orientation: landscape){
+} 
+
+
+/*Mobile* Galaxy S5*/
+@media only screen 
+    and(max-width: px) 
+    and (min-width: px) 
+    and (orientation: landscape){
+} 
+
+
+/*Mobile* Pixel 2*/
+@media only screen 
+    and(max-width: px) 
+    and (min-width: px) 
+    and (orientation: landscape){
+} 
+
+
+/*Mobile* Pixel 2 XL*/
+@media only screen 
+    and(max-width: px) 
+    and (min-width: px) 
+    and (orientation: landscape){
+} 
+
+/* Destop */
+@media only screen 
+    and (max-width:1024px){
 * {
     box-sizing: border-box;
 }
@@ -63,3 +113,4 @@ img{
 h1{
 font-family: 'Libre Baskerville', serif;
 }
+        }
