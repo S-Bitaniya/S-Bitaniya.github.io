@@ -38,3 +38,10 @@ nav a i {
 a:hover{
     color:aquamarine;
 }
+.vl{
+    border-left:black
+    height:500px;
+    position:absolute;
+    left:50%
+    top:0;
+}
