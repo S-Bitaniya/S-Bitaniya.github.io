@@ -3,6 +3,11 @@
     and(max-width: px)
     and (min-width: px) 
     and (orientation: landscape){
+        #menu{
+            font-size:20px;
+            padding:1%;
+            width:25%
+        }
 } 
 
 
