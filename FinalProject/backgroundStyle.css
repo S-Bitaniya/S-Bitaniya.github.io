@@ -54,9 +54,6 @@
 
 } 
 
-/* Destop */
-@media only screen 
-    and (max-width:1024px){
 * {
     box-sizing: border-box;
 }
@@ -123,5 +120,4 @@ img{
 }
 h1{
 font-family: 'Libre Baskerville', serif;
-}
 }
