@@ -5,8 +5,15 @@
     and (orientation: portrait){
         h1{
             font-size:30px;
-            padding:1%;
+            paddining:1%;
         }
+         
+         nav{ 
+              font-size:12;
+              padding:1%;
+              position: relative;
+              
+         }
         }
 
 /*Mobile, Landscape*/
