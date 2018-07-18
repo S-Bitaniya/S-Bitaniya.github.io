@@ -74,11 +74,7 @@ a:hover{
 img{
     float:left;
     height: 900px;
-    width: 500px;
-    margin-left:auto;
-    margin-right:auto;
-    float:up;
-    padding:90px;
+    width: 400px;
 }
 h1{
 font-family: 'Libre Baskerville', serif;
