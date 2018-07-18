@@ -7,6 +7,7 @@ body{
     background-image: url(https://images.unsplash.com/photo-1510772863798-8fdb0f4e6cc5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c339d19f8cf6ea747712ebdd1d20e42&auto=format&fit=crop&w=1054&q=80);
     background-size:100% 100%;
     max-width:1500px;
+    height:700px;
 }
 
 nav{
