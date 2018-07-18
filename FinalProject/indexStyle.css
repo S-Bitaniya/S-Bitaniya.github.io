@@ -3,10 +3,7 @@
      and(min-width: 375px) 
     and (max-width: 415p)
     and (orientation: portrait){
-        #menu{
-            font-size:15px;
-            padding:1%;
-            width:20%
+        
         }
         
         h1{
