@@ -1,63 +1,25 @@
-/*
-/*Mobile* iphone X*/
+/*Mobile, Portrait*/
 @media only screen 
-    and(max-width: px)
-    and (min-width: px) 
+     and(min-width: 375px) 
+    and (max-width: 415p)
     and (orientation: portrait){
-
+      
 } 
 
 
-/*Mobile* iphone 6/7/8 Plus*/
+/*Mobile, Landscape*/
 @media only screen 
-    and(max-width: px) 
-    and (min-width: px) 
-    and (orientation: portrait){
-
+    and(min-width: 375px) 
+    and (max-width: 415p)
+    and (orientation: landscape)
+      
 } 
 
-
-/*Mobile* iphone 6/7/8*/
-@media only screen 
-    and(max-width: px) 
-    and (min-width: px) 
-    and (orientation: portrait){
-
-} 
-
-
-
-/*Mobile* Galaxy S5*/
-@media only screen 
-    and(max-width: px) 
-    and (min-width: px) 
-    and (orientation: portrait){
-
-} 
-
-
-
-/*Mobile* Pixel 2*/
-@media only screen 
-    and(max-width: px) 
-    and (min-width: px) 
-    and (orientation: portrait){
-
-} 
-
-
-/*Mobile* Pixel 2 XL*/
-@media only screen 
-    and(max-width: px) 
-    and (min-width: px) 
-    and (orientation: portrait){
-
-} 
 
 * {
     box-sizing: border-box;
 }
-*/
+
 body {
     width: 100%;
     background-color:#488085;
@@ -110,7 +72,7 @@ a:hover{
 }
 
 img{
-    float:right;
+    float:left;
     height: 900px;
     width: 500px;
     margin-left:auto;
