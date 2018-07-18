@@ -3,15 +3,11 @@
      and(min-width: 375px) 
     and (max-width: 415p)
     and (orientation: portrait){
-        
-        }
-        
         h1{
             font-size:30px;
             padding:1%;
         }
-} 
-
+        }
 
 /*Mobile, Landscape*/
 @media only screen 
