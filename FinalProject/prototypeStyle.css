@@ -56,7 +56,12 @@ h2{
     border-radius: 2px;
     background: bisque;
     display: block;
-    height: 700px;
+    height: 1000px;
     width: 1%;
     float: left;
+}
+
+img{
+    width:500px;
+    height:250px;
 }
