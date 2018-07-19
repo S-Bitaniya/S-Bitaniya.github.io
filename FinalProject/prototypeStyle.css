@@ -7,13 +7,7 @@
 } 
 
 
-/*Mobile, Landscape*/
-@media only screen 
-    and(min-width: 375px) 
-    and (max-width: 415px)
-    and (orientation: landscape){
-    
-}
+
 
 
     box-sizing: border-box;
