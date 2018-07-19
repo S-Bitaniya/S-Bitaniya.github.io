@@ -35,11 +35,9 @@
 * {
     box-sizing: border-box;
 }
-body{
-    max-width:100%; 
-    background-image: url(https://images.unsplash.com/photo-1494391588032-22cd44f466ef?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6ed3d3bc66e02783acbd5196c326380b&auto=format&fit=crop&w=1047&q=80);
-    background-repeat: no-repeat;
-    background-position:center;
+body {
+    width: 100%;
+    background-color:#6b9ab2;
 }
 
 nav{
