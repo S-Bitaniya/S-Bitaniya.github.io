@@ -80,3 +80,10 @@ img{
 h1{
 font-family: 'Libre Baskerville', serif;
 }
+
+.pic{
+    width: 282px;
+    height: 200px;
+    margin-right:5px;
+    float: left;
+}
