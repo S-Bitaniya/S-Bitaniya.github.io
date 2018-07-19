@@ -1,8 +1,8 @@
 /*Mobile* iphone X*/
 @media only screen 
-    and(max-width:375 px)
-    and (min-width: px) 
+    and(max-width:375 px) 
     and (orientation: landscape){
+        
 } 
 
 
@@ -128,5 +128,5 @@ body{
 }
 #logo{
     height:300%;
-    width:100%;
+    width:300%;
 }
