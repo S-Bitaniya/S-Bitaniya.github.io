@@ -99,8 +99,8 @@ h2{
 }
 
 #line{
-    border: 1px solid rgba(255,228,196);
-    border-color: solid rgba(255,228,196);
+    border: 1px solid black;
+    border-color: solid black;
     border-radius: 2px;
     background: black;
     display: block;
