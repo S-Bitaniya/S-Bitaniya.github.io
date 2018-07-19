@@ -1,22 +1,70 @@
 /*Mobile, Portrait*/
 @media only screen 
-     and(min-width: 370px) 
+    and(min-width: 370px) 
     and (max-width: 425px)
     and (orientation: portrait){
-        h2{
-            font-size:200px;
-            padding:1%;
-            
-        }
+h2{
+     font-size:200px;
+     padding:1%;  
+}
        
-         nav{ 
-              font-size:12;
-              padding:1%;
-              position: relative;
-              
-              
-         }
+nav{
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    overflow:hidden;
+    width: 100%;
+}
+         
+a{
+    float: left;
+    color:white;
+    text-decoration: none;
+    display: relative;
+    padding: 6px;
+    width: 18%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+nav a p {
+    float: left;
+    margin-left: 2%;
+}
+
+nav a i {
+    float: left;
+    padding-top: 2%;
+    padding-bottom: auto;
+}
+
+#oof {
+    padding-top: 2%;
+}
+
+a:hover{
+    color:aquamarine;
+}
+#home{
+    border-style: solid;
+    background: rgba(0, 0, 0, 0.12);
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    background-clip: content-box;
+    width:70%;
+    height:22em;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Josefin Slab', serif;
+}
+.hometxt{
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    margin: 25px;
+}
         }
+
+
 
 /*Mobile, Landscape*/
 @media only screen 
