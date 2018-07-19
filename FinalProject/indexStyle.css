@@ -4,14 +4,16 @@
     and (max-width: 415px)
     and (orientation: portrait){
         h1{
-            font-size:30px;
+            font-size:200px;
             paddining:1%;
+            
         }
-         
+       
          nav{ 
               font-size:12;
               padding:1%;
               position: relative;
+              
               
          }
         }
@@ -19,7 +21,7 @@
 /*Mobile, Landscape*/
 @media only screen 
     and(min-width: 375px) 
-    and (max-width: 415p)
+    and (max-width: 415px)
     and (orientation: landscape){
       
 } 
