@@ -1,60 +1,48 @@
 /*Mobile, Portrait*/
-@media only screen 
-     and(min-width: 375px) 
-    and (max-width: 415px)
-    and (orientation: portrait){
-      
-} 
-
-
-/*Mobile, Landscape*/
-@media only screen 
-    and(min-width: 375px) 
-    and (max-width: 415px)
-    and (orientation: landscape){
+@media only screen and (min-width: 300px) and (max-width: 380px) and (orientation: portrait){
+    body{
+        background-image: url(https://images.unsplash.com/photo-1510772863798-8fdb0f4e6cc5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c339d19f8cf6ea747712ebdd1d20e42&auto=format&fit=crop&w=1054&q=80);
+        width:100%; 
+        height:100%;
+        background-repeat:no-repeat; 
+    }
     
-}
-h2{
-     font-size:200px;
-     padding:1%;  
-}
-       
-nav{
-    background-color: black;
-    text-align: center;
-    overflow:hidden;
-    width: 100%;
-}
-         
-a{
-    float: left;
-    color:white;
-    text-decoration: none;
-    padding: 6px;
-    width: 18%;
-    text-align: center;
-    vertical-align: middle;
-}
+    #nav1{
+        background-color:black;
+        float:left;
+        width: 50%;
+    }
+    #nav2{
+        background-color: black;
+        float:left;
+        width: 50%;
+        padding-bottom: 1.99px;
+    }
+    
+    a{
+        color:white;
+        text-decoration: none;
+    }
+    
+    .av{
+        width:40%;
+    }
 
-nav a p {
-    float: left;
-    margin-left: 2%;
-}
 
-nav a i {
-    float: left;
+    #oof {
     padding-top: 2%;
-    padding-bottom: auto;
-}
-
-#oof {
-    padding-top: 2%;
-}
-
-a:hover{
+    }
+    
+    a:hover{
     color:aquamarine;
-}
-#home{
+    }
+    
+    h2{
+        font-size: 35px;
+        padding:1%;
+        text-align: center;
+    }
+    #home{
     border-style: solid;
     background: rgba(0, 0, 0, 0.12);
     border: 6px solid rgba(0, 0, 0, 0.12);
@@ -69,8 +57,73 @@ a:hover{
     text-align: center;
     margin: 40px;
 }
-        }
+}
 
+
+
+/*Mobile Plus, Portrait*/
+@media only screen and (min-width: 380px) and (max-width: 425px) and (orientation: portrait){
+    body{
+        background-image: url(https://images.unsplash.com/photo-1510772863798-8fdb0f4e6cc5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4c339d19f8cf6ea747712ebdd1d20e42&auto=format&fit=crop&w=1054&q=80);
+        width:100%; 
+        height:100%;
+        background-repeat:no-repeat; 
+    }
+    
+    #nav1{
+        background-color:black;
+        float:left;
+        width: 50%;
+        padding-bottom: 18px;
+    }
+    #nav2{
+        background-color: black;
+        float:left;
+        width: 50%;
+        padding-bottom: 1.99px;
+    }
+    
+    a{
+        color:white;
+        text-decoration: none;
+    }
+    
+    .av{
+        width:40%;
+    }
+
+
+    #oof {
+    padding-top: 2%;
+    }
+    
+    a:hover{
+    color:aquamarine;
+    }
+    
+    h2{
+        font-size: 35px;
+        padding:1%;
+        text-align: center;
+    }
+    #home{
+    border-style: solid;
+    background: rgba(0, 0, 0, 0.12);
+    border: 6px solid rgba(0, 0, 0, 0.12);
+    width:85%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Josefin Slab', serif;
+}
+.hometxt{
+    font-size: 13px;
+    color: black;
+    text-align: center;
+    margin: 40px;
+}
+}
+
+/*Desktop*/
 * {
     box-sizing: border-box;
 }
