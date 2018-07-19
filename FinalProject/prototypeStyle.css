@@ -102,7 +102,7 @@ h2{
     border: 1px solid rgba(255,228,196);
     border-color: solid rgba(255,228,196);
     border-radius: 2px;
-    background: bisque;
+    background: black;
     display: block;
     height: 1000px;
     width: 1%;
@@ -115,5 +115,5 @@ img{
 }
 h3{
 font-family: 'Libre Baskerville', serif;
-    background-color:488085;
+    
 }
