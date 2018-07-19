@@ -72,16 +72,17 @@ a:hover{
 }
 
 img{
-    margin: 60px;
+    margin: 70px;
     float:left;
     height: 900px;
-    width: 330px;
+    width: 370px;
 }
 h1{
 font-family: 'Libre Baskerville', serif;
 }
 
 .pic{
+    border:soild;
     width: 282px;
     height: 200px;
     margin-right:5px;
