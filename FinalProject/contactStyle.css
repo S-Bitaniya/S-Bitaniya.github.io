@@ -1,36 +1,19 @@
-/*Mobile* iphone X*/
-@media only screen and(max-width: px) and (min-width: px) and (orientation: landscape){
+/*Mobile, Portrait*/
+@media only screen 
+     and(min-width: 375px) 
+    and (max-width: 415px)
+    and (orientation: portrait){
+      
 } 
 
 
-/*Mobile* iphone 6/7/8 Plus*/
-@media only screen and(max-width: px) and (min-width: px) and (orientation: landscape){
-} 
-
-
-
-
-/*Mobile* iphone 6/7/8*/
-@media only screen and(max-width: px) and (min-width: px) and (orientation: landscape){
-} 
-
-
-
-/*Mobile* Galaxy S5*/
-@media only screen and(max-width: px) and (min-width: px) and (orientation: landscape){
-} 
-
-
-
-/*Mobile* Pixel 2*/
-@media only screen and(max-width: px) and (min-width: px) and (orientation: landscape){
-} 
-
-
-/*Mobile* Pixel 2 XL*/
-@media only screen and(max-width: px) and (min-width: px) and (orientation: landscape){
-} 
-
+/*Mobile, Landscape*/
+@media only screen 
+    and(min-width: 375px) 
+    and (max-width: 415px)
+    and (orientation: portrait){
+    
+}
 
 * {
     box-sizing: border-box;
