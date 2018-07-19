@@ -1,18 +1,7 @@
 /*Mobile, Portrait*/
 @media only screen 
-     and(min-width: 375px) 
-    and (max-width: 415p)
+     and(min-width: 900px) 
     and (orientation: portrait){
-      
-} 
-
-
-/*Mobile, Landscape*/
-@media only screen 
-    and(min-width: 375px) 
-    and (max-width: 415p)
-    and (orientation: landscape){
-    
 } 
 
 
