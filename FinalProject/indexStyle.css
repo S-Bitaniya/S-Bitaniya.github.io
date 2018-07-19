@@ -3,7 +3,7 @@
      and(min-width: 375px) 
     and (max-width: 415px)
     and (orientation: portrait){
-        h1{
+        h2{
             font-size:200px;
             paddining:1%;
             
