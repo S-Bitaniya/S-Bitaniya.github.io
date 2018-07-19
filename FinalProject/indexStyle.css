@@ -124,6 +124,7 @@
 }
 
 /*Desktop*/
+@media only screen and (min-width: 990x) and (max-width: 1200px) and (orientation: portrait)
 * {
     box-sizing: border-box;
 }
