@@ -6,6 +6,8 @@
         height:100%;
         background-repeat:no-repeat; 
     }
+/*Desktop*/    
+@media only screen and (min-width: 990px) and (max-width: 1200px) and (orientation: portrait){
     
     #nav1{
         background-color:black;
@@ -197,4 +199,5 @@ h2{
     color: black;
     text-align: center;
     margin: 50px;
+}
 }
