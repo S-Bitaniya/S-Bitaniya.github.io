@@ -86,4 +86,83 @@ body{
     height:300px;
     width:300px;
 }
-@media only screen 
+@media all and (min-width: 990px) and (max-width:1200px) { 
+nav{
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    overflow:hidden;
+    width: 100%;
+}
+a{
+    float: left;
+    color:white;
+    text-decoration: none;
+    display: relative;
+    padding: 16px;
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+nav a p {
+    float: left;
+    margin-left: 5%;
+}
+
+nav a i {
+    float: left;
+    padding-top: 4%;
+    padding-bottom: auto;
+}
+
+#oof {
+    padding-top: 5%;
+}
+
+a:hover{
+    color:aquamarine;
+}
+
+.column {
+    float:left;
+    width: 49.33%;
+    padding: 22px;
+    height: 400px; 
+}
+
+h2{
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#line{
+    border: 1px solid black;
+    border-color: solid black;
+    border-radius: 2px;
+    background: black;
+    display: block;
+    height: 1000px;
+    width: 1%;
+    float: left;
+}
+ 
+img{
+    width:500px;
+    height:250px;
+}
+h3{
+font-family: 'Libre Baskerville', serif;
+    
+}
+body{
+ background-color:#6b9ab2;
+}
+
+#Source{
+    font-size: 4px;
+}
+#logo{
+    height:300px;
+    width:300px;
+}
