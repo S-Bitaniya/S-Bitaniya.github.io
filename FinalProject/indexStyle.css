@@ -7,7 +7,7 @@
         background-repeat:no-repeat; 
     }
 /*Desktop*/    
-@media only screen and (min-width: 990px) and (max-width: 1200px) and (orientation: portrait){
+@media only screen and (min-width: 990px) and (max-width:1200px) {
     
     #nav1{
         background-color:black;
