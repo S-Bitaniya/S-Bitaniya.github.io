@@ -1,10 +1,24 @@
-/*Mobile, Portrait*/
-@media only screen 
-     and(min-width: 375px) 
-    and (max-width: 415px)
-    and (orientation: portrait){
-      
-} 
+/*Mobile;Portrait*/
+@media only screen and (min-width: 300px) and (max-width: 380px) and (orientation: portrait){
+     #flu {
+    margin: 1px;
+    float: right;
+    height: 900px;
+    width: 140px;
+    position: relative;
+  }
+}
+
+/*Mobile Plus;Portrait*/
+@media only screen and (min-width: 380px) and (max-width: 425px) and (orientation: portrait){
+        #flu {
+    margin: 1px;
+    float: right;
+    height: 900px;
+    width: 140px;
+    position: relative;
+  }
+}
 
 
 
