@@ -2,7 +2,6 @@
 @media only screen and (min-width: 300px) and (max-width: 380px) and (orientation: portrait){
      #flu {
     margin: 1px;
-    float: right;
     height: 900px;
     width: 140px;
   }
@@ -12,16 +11,16 @@
 @media only screen and (min-width: 380px) and (max-width: 425px) and (orientation: portrait){
         #flu {
     margin: 1px;
-    float: right;
     height: 900px;
     width: 140px;
+    
   }
 }
 
 
 
 
-
+@media only screen and (min-width: 500px){
 * {
     box-sizing: border-box;
 }
@@ -91,4 +90,5 @@ font-family: 'Libre Baskerville', serif;
     height: 200px;
     margin-right:5px;
     float: left;
+}
 }
