@@ -5,6 +5,76 @@
     height: 900px;
     width: 140px;
   }
+      * {
+    box-sizing: border-box;
+ }
+
+ body {
+    width: 100%;
+    background-color:#6b9ab2;
+ }
+ nav{
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    overflow:hidden;
+    width: 100%;
+ }
+ a{
+    float: left;
+    color:white;
+    text-decoration: none;
+    display: relative;
+    padding: 16px;
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+ }
+
+ nav a p {
+    float: left;
+    margin-left: 5%;
+ }
+
+ nav a i {
+    float: left;
+    padding-top: 4%;
+    padding-bottom: auto;
+ }
+
+ #oof {
+    padding-top: 5%;
+ }
+
+ a:hover{
+    color:aquamarine;
+ }
+
+ #information{
+    background: rgba(0, 0, 0, 0.12);
+    background-clip: content-box;
+    width:62%;
+    height:60em;
+    border-style: solid;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    float:left;
+ }
+
+ #flu{
+    margin: 10px;
+    height: 900px;
+    width: 330px;
+ }
+ h1{
+ font-family: 'Libre Baskerville', serif;
+ }
+
+ .pic{
+    width: 282px;
+    height: 200px;
+    margin-right:5px;
+    float: left;
+ }
 }
 
 /*Mobile Plus;Portrait*/
@@ -15,28 +85,23 @@
     width: 140px;
     
   }
-}
-
-
-
-
-@media only screen and (min-width: 425px) and (max-width: 1200px) and (orientation: portrait){
-* {
+     
+      * {
     box-sizing: border-box;
-}
+ }
 
-body {
+ body {
     width: 100%;
     background-color:#6b9ab2;
-}
-nav{
+ }
+ nav{
     background-color: black;
     text-align: center;
     list-style-type: none;
     overflow:hidden;
     width: 100%;
-}
-a{
+ }
+ a{
     float: left;
     color:white;
     text-decoration: none;
@@ -45,28 +110,28 @@ a{
     width: 25%;
     text-align: center;
     vertical-align: middle;
-}
+ }
 
-nav a p {
+ nav a p {
     float: left;
     margin-left: 5%;
-}
+ }
 
-nav a i {
+ nav a i {
     float: left;
     padding-top: 4%;
     padding-bottom: auto;
-}
+ }
 
-#oof {
+ #oof {
     padding-top: 5%;
-}
+ }
 
-a:hover{
+ a:hover{
     color:aquamarine;
-}
+ }
 
-#information{
+ #information{
     background: rgba(0, 0, 0, 0.12);
     background-clip: content-box;
     width:62%;
@@ -74,21 +139,97 @@ a:hover{
     border-style: solid;
     border: 10px solid rgba(0, 0, 0, 0.12);
     float:left;
-}
+ }
 
-#flu{
+ #flu{
     margin: 10px;
     height: 900px;
     width: 330px;
-}
-h1{
-font-family: 'Libre Baskerville', serif;
-}
+ }
+ h1{
+ font-family: 'Libre Baskerville', serif;
+ }
 
-.pic{
+ .pic{
     width: 282px;
     height: 200px;
     margin-right:5px;
     float: left;
+ }
 }
+
+
+
+
+@media only screen and (min-width: 425px) and (max-width: 1200px) and (orientation: portrait){
+ * {
+    box-sizing: border-box;
+ }
+
+ body {
+    width: 100%;
+    background-color:#6b9ab2;
+ }
+ nav{
+    background-color: black;
+    text-align: center;
+    list-style-type: none;
+    overflow:hidden;
+    width: 100%;
+ }
+ a{
+    float: left;
+    color:white;
+    text-decoration: none;
+    display: relative;
+    padding: 16px;
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+ }
+
+ nav a p {
+    float: left;
+    margin-left: 5%;
+ }
+
+ nav a i {
+    float: left;
+    padding-top: 4%;
+    padding-bottom: auto;
+ }
+
+ #oof {
+    padding-top: 5%;
+ }
+
+ a:hover{
+    color:aquamarine;
+ }
+
+ #information{
+    background: rgba(0, 0, 0, 0.12);
+    background-clip: content-box;
+    width:62%;
+    height:60em;
+    border-style: solid;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    float:left;
+ }
+
+ #flu{
+    margin: 10px;
+    height: 900px;
+    width: 330px;
+ }
+ h1{
+ font-family: 'Libre Baskerville', serif;
+ }
+
+ .pic{
+    width: 282px;
+    height: 200px;
+    margin-right:5px;
+    float: left;
+ }
 }
